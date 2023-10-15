@@ -1,7 +1,8 @@
 # MERN E-COMMERCE APP 'RedoxCart'
 
-Hi! My name is **Rajnish Kumar**, I have made this ecommerce app using MERN stack and it is fully functional.
+Hi! My name is **Rajnish Kumar**, I have made this ecommerce app using MERN stack and it is fully functional. <br/>
 
+#live-link : https://redoxcart-mern-app.onrender.com/
 #Preview
 ![Screenshot (63)](https://github.com/redoxrj/MERNprojectRedoxCart_raw/assets/140983045/042464ad-bd6a-4e77-855c-06e2e856541e)
 ![Screenshot (64)](https://github.com/redoxrj/MERNprojectRedoxCart_raw/assets/140983045/cdbf4ffd-c57c-45e0-9d2a-fbcae3b9c62a)
